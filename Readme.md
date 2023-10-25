@@ -1,0 +1,1 @@
+DAY2 Task about Difference B/W Document and Window objects.

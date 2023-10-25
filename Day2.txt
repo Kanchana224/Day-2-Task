@@ -1,0 +1,29 @@
+Write a blog on the difference between Document and window objects.
+
+SCOPE
+    *DOCUMENT => It represents the web page's content provide access to the HTML element within 
+                the page.
+    *WINDOW   => It represents the browser window or tab and encompasses everything within it, including 
+                the document and other properties related to the browser itself.
+PURPOSE
+    *DOCUMENT => Document is primarily concerned with the content and structure of the web page, including
+                HTML elements,text,and images.
+    *WINDOW   => Window manages the browser environment and provides properties and methods for controlling
+                and interacting with the browser window,such as opening new tabs or windows,managing history
+                and handling events.
+PROPERTIES 
+    *DOCUMENT => Document has properties related to the content of the web page,such as document.body for the 
+                <body>element,and methods to manipulatethe content.
+    *WINDOW   => Windows has properties like window.location for the current URL,window.history for the browser's
+                navigation history ,and window.alert() for displaying pop-up alerts.
+NAVIGATION 
+    *DOCUMENT => Document allows you to manipulate and access the content within the current page.
+    *WINDOW   => Window is used for navigation and interacting with the browser as a whole,like opening 
+                new tabs or manipulating the browser history.
+ACCESSIBILITY 
+    *DOCUMENT => Document is primarily concerned aith the accessibility and manipulation of the web page's
+                content.
+    *WINDOW   => Window is more about controlling the browser's behaviour and interaction.                                                                                        
+
+                
+
